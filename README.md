@@ -15,12 +15,12 @@ Cada aula possui uma pasta específica com o enunciado dos exercícios e um arqu
 Alguns exercícios utilizam `prompt`, `alert` e `console.log`, que só funcionam em um navegador. Para rodar o código:
 
 1. Crie um arquivo HTML no diretório da aula, ou utilize o exemplo abaixo.
-2. Referencie o arquivo `resposta.js` da aula para executar o código JavaScript.
+2. Referencie o arquivo `resolucao.js` da aula para executar o código JavaScript.
 3. Abra o arquivo HTML no navegador para ver os prompts e alertas em ação.
 
 ### Exemplo de Arquivo HTML
 
-Salve este arquivo como `index.html` no diretório da aula para rodar o código do `resposta.js`:
+Salve este arquivo como `index.html` no diretório da aula para rodar o código do `resolucao.js`:
 
 ```html
 <!DOCTYPE html>
