@@ -1,18 +1,3 @@
-// Exercício 2a
-// Solicita ao usuário que digite seu nome e exibe uma mensagem de boas-vindas em um alerta
-let nome = prompt("Digite seu nome:");
-alert("Bem-vindo(a), " + nome + "!");
-
-// Exercício 2b
-// Solicita ao usuário que digite dois números, realiza a soma e exibe o resultado em um alerta
-let numero1 = Number(prompt("Digite o primeiro número:"));
-let numero2 = Number(prompt("Digite o segundo número:"));
-let soma = numero1 + numero2;
-alert("A soma dos números é: " + soma);
-
-// Exercício 2c
-// Calculadora de IMC
-// Solicita ao usuário que informe seu peso em kg e altura em metros
 let peso = Number(prompt("Informe seu peso em kg:"));
 let altura = Number(prompt("Informe sua altura em metros:"));
 
