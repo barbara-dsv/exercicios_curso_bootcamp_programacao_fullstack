@@ -4,7 +4,7 @@
 
 **b)** Calcule a soma dos números de 1 a 73
 
-**c)**Desenvolva um programa que solicite ao usuário seu nome e senha, e não permita que a senha seja igual ao nome de usuário. Caso isso ocorra, exiba uma mensagem de erro e peça os dados novamente até que as informações sejam válidas.
+**c)** Desenvolva um programa que solicite ao usuário seu nome e senha, e não permita que a senha seja igual ao nome de usuário. Caso isso ocorra, exiba uma mensagem de erro e peça os dados novamente até que as informações sejam válidas.
 
 **d)** Escreva um programa que imprima no console os números de 0 a 100.
 
