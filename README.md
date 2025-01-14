@@ -5,10 +5,32 @@ Cada aula possui uma pasta específica com o enunciado dos exercícios e um arqu
 
 ## Estrutura do repositório 
 
-- Cada pasta (`aula01`, `aula02`, etc.) corresponde a uma aula.
-- Dentro de cada pasta, você encontrará:
-  - `README.md` com os enunciados dos exercícios.
-  - `resolucao-exercicio-[item-correspondente].js` com as soluções dos exercícios.
+O repositório está organizado em três grandes pastas principais, separadas por tecnologia: HTML, CSS e JavaScript. Cada pasta contém subpastas com o nome das aulas, que incluem os enunciados e as soluções dos exercícios correspondentes.
+
+📂 HTML
+   ├── aula01
+   │    ├── README.md (enunciado dos exercícios)
+   │    ├── resolucao-exercicio-[item-correspondente].html
+   └── aula02
+        ├── README.md
+        ├── resolucao-exercicio-[item-correspondente].html
+
+📂 CSS
+   ├── aula01
+   │    ├── README.md
+   │    ├── resolucao-exercicio-[item-correspondente].css
+   └── aula02
+        ├── README.md
+        ├── resolucao-exercicio-[item-correspondente].css
+
+📂 JavaScript
+   ├── aula01
+   │    ├── README.md
+   │    ├── resolucao-exercicio-[item-correspondente].js
+   └── aula02
+        ├── README.md
+        ├── resolucao-exercicio-[item-correspondente].js
+
 
 ## Como Executar os Exercícios
 
