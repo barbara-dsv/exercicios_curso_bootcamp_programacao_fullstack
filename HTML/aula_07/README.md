@@ -2,10 +2,8 @@
 
 **a)** Criar um formulário com campos para nome, e-mail e senha
 
-**b)** No arquivo HTML, crie os seguintes elementos: 
-
-- Um parágrafo com a classe texto.
-- Um elemento <div> com o ID container.
-- Dois <span> dentro da <div>.
+**b)** Crie um formulário de pesquisa com um campo de texto e um botão para enviar a consulta.
+- Adicione u campo de texto para o usuário digitar sua pesquisa.
+- Adicione um botão de pesquisa para enviar o formulário.
 
 ###### tags:  `html` `formulario`  `links` `listas` `tags`
